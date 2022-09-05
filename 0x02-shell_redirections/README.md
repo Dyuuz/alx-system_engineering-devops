@@ -1,4 +1,3 @@
-Write a script that counts the number of directories and sub-directories in the current directory.
+Write a script that displays all users and their home directories, sorted by users.
 
-The current and parent directories should not be taken into account
-Hidden directories should be counted
+Based on the the /etc/passwd file
