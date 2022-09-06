@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 find ./* -type d -print | wc -1 
+=======
+find . -type d ! -path . -print | wc -12
+>>>>>>> New
